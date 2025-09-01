@@ -1,1 +1,3 @@
-Debug notes: everything works now!
+My name: Jeffrey Lin
+My username: cs61c-avu
+My SID: 3038801937
