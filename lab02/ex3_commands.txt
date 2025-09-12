@@ -3,3 +3,10 @@
 # Lines starting with # are comments, feel free to add any to document your commands
 
 # Please add your commands below this line
+file ex5_segfault
+run
+backtrace
+frame 0
+list
+info locals
+quit

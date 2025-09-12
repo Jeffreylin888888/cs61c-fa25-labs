@@ -3,3 +3,11 @@
 # Lines starting with # are comments, feel free to add any to document your commands
 
 # Please add your commands below this line
+file pwd_checker
+break main
+run
+next
+next
+print argc
+backtrace
+quit
