@@ -1,8 +1,3 @@
-# You should be editing this file for the Intro to GDB exercise of lab 2.
-# Make sure each command is on its own line
-# Lines starting with # are comments, feel free to add any to document your commands
-
-# Please add your commands below this line
 start
 next
 next
@@ -10,9 +5,8 @@ step
 step
 print password
 finish
-next
 step
 next
-print length >= 8
 print length
+finish
 quit
