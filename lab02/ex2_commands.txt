@@ -3,11 +3,16 @@
 # Lines starting with # are comments, feel free to add any to document your commands
 
 # Please add your commands below this line
-file pwd_checker
-break main
-run
+start
 next
 next
-print argc
-backtrace
+step
+step
+print password
+finish
+next
+step
+next
+print length >= 8
+print length
 quit
