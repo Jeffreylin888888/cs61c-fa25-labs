@@ -1,11 +1,11 @@
 start
 next
-next
 step
 step
 print password
 finish
 step
+next
 next
 print length
 finish
